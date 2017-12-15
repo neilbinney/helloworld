@@ -1,4 +1,4 @@
-nbinney/example-node:
+nbinney/hellowworld:
   Build:
     - echo "Begin Build"
     - sudo -H pip3 install -r requirements.txt
