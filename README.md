@@ -13,7 +13,7 @@ git version 2.7.4
 
 ## Installing the Distelli Agent
 
-Install the agent:
+As root install the agent:
 
 ```
 [root@pi-sit01 ~]# wget -qO- https://www.distelli.com/download/client | sh
@@ -43,6 +43,15 @@ Distelli Agent https://www.distelli.com/neilbinney/servers/258db99f-7390-ba46-b6
 ```
 
 ## Distelli Web-UI
+
+###  Configure Server
+
+* Select **Servers** from the top of the WebUI
+* Select the server you have created from the list
+* Enable **Key Management Server**
+* Enable **Job/Build Server**
+
+[![server](https://github.com/neilbinney/helloworld/raw/screenshots/screenshots/server.png)](#features)
 
 ### Create the Application
 
