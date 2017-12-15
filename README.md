@@ -47,6 +47,19 @@ Distelli Agent https://www.distelli.com/neilbinney/servers/258db99f-7390-ba46-b6
 ### Create the Application
 
 * Select **Applications** from the top of the WebUI
+* Select **New APP** button
+* Name the Application
+
+### Connect your application to source control
+
+[![connect_repo](https://github.com/neilbinney/helloworld/raw/screenshots/screenshots/connect_repo.png.png)](#features)
+
+### Select a repository
+
+[![select_branch](https://github.com/neilbinney/helloworld/raw/screenshots/screenshots/select_branch.png)](#features)
+### Select branches
+
+[![select_repo](https://github.com/neilbinney/helloworld/raw/screenshots/screenshots/select_repo.png)](#features)
 
 [![Application screenshot](https://github.com/neilbinney/helloworld/raw/screenshots/screenshots/Application.png)](#features)
 
