@@ -80,7 +80,6 @@ Distelli Agent https://www.distelli.com/neilbinney/servers/258db99f-7390-ba46-b6
 * Tick **Build on my own hardware**
 * Specify a name in **Build Capabilities** to pair application builds to server
 [![review](https://github.com/neilbinney/helloworld/raw/screenshots/screenshots/review.png)](#features)
-[![Application screenshot](https://github.com/neilbinney/helloworld/raw/screenshots/screenshots/Application.png)](#features)
 ### Start the build
 Select **Looks Good.  Start Build**
 Select **Go To Builds**
@@ -108,7 +107,7 @@ Following a successful build a release is created.
 *From the build page select **New Deployment**
 
 
-[![deplyment](https://github.com/neilbinney/helloworld/raw/screenshots/screenshots/deploy.png)](#features
+[![deplyment](https://github.com/neilbinney/helloworld/raw/screenshots/screenshots/deploy.png)](#features)
 
 ## Django Code
 
