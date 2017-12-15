@@ -52,7 +52,7 @@ Distelli Agent https://www.distelli.com/neilbinney/servers/258db99f-7390-ba46-b6
 
 ### Connect your application to source control
 
-[![connect_repo](https://github.com/neilbinney/helloworld/raw/screenshots/screenshots/connect_repo.png.png)](#features)
+[![connect_repo](https://github.com/neilbinney/helloworld/raw/screenshots/screenshots/connect_repo.png)](#features)
 
 ### Select a repository
 
