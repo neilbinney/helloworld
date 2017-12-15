@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-Project is designed to build on own hardware running Ubuntu 16.04.  
+Project is designed to build on it’s own hardware running Ubuntu 16.04.  
 
 Ensure that the version of git being used is later than 2.5:
 
@@ -104,10 +104,12 @@ Distelli will pull a fresh copy of the repo each time it builds the app.
 ###  Deploying the App
 Following a successful build a release is created.
 
-*From the build page select **New Deployment**
+* From the build page select **New Deployment**
 
 
 [![deplyment](https://github.com/neilbinney/helloworld/raw/screenshots/screenshots/deploy1.png)](#features)
+The details will be populated from the App.  Select with Environment/Server to deploy too.  Apps are deployed to the server as .gz files in `/distelli/_apps/`
+
 
 ## Django Code
 
