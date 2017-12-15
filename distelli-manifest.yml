@@ -1,4 +1,4 @@
-nbinney/hellowworld:
+neilbinney/helloworld:
   Build:
     - echo "Begin Build"
     - sudo -H pip3 install -r requirements.txt
