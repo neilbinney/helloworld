@@ -42,8 +42,7 @@ Check the agent is running:
 Distelli Agent https://www.distelli.com/neilbinney/servers/258db99f-7390-ba46-b683-fa163eb353f5 is Running
 ```
 
-![Alt text](/../screenshots/Application.png?raw=true "Application")
-[![Alt text](https://github.com/neilbinney/helloworld/raw/screenshots/screenshots/Application.png)](#features)
+[![Application screenshot](https://github.com/neilbinney/helloworld/raw/screenshots/screenshots/Application.png)](#features)
 
 
 
