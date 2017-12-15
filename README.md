@@ -81,6 +81,12 @@ Distelli Agent https://www.distelli.com/neilbinney/servers/258db99f-7390-ba46-b6
 * Specify a name in **Build Capabilities** to pair application builds to server
 [![review](https://github.com/neilbinney/helloworld/raw/screenshots/screenshots/review.png)](#features)
 [![Application screenshot](https://github.com/neilbinney/helloworld/raw/screenshots/screenshots/Application.png)](#features)
+### Start the build
+Select **Looks Good.  Start Build**
+Select **Go To Builds**
+
+Distelli will pull a fresh copy of the repo each time it builds the app.
+
 ### Create application environment
 
 * Select **Applications** from the top of the WebUI
@@ -96,6 +102,13 @@ Distelli Agent https://www.distelli.com/neilbinney/servers/258db99f-7390-ba46-b6
 * Select the new environment and click **Add Environments** to add the environment to the server
 
 [![addenvironment](https://github.com/neilbinney/helloworld/raw/screenshots/screenshots/addenvironment.png)](#features)
+###  Deploying the App
+Following a successful build a release is created.
+
+*From the build page select **New Deployment**
+
+
+[![deplyment](https://github.com/neilbinney/helloworld/raw/screenshots/screenshots/deploy.png)](#features
 
 ## Django Code
 
