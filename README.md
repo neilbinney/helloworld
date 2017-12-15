@@ -107,7 +107,7 @@ Following a successful build a release is created.
 *From the build page select **New Deployment**
 
 
-[![deplyment](https://github.com/neilbinney/helloworld/raw/screenshots/screenshots/deploy.png)](#features)
+[![deplyment](https://github.com/neilbinney/helloworld/raw/screenshots/screenshots/deploy1.png)](#features)
 
 ## Django Code
 
