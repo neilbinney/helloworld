@@ -4,7 +4,7 @@ neilbinney/helloworld:
    - hostnamectl
    - sudo add-apt-repository ppa:jonathonf/python-3.6
    - sudo apt-get -y update
-   - sudo apt-get install python3.6 python3-pip
+   - sudo apt-get -y install python3.6 python3-pip
   Build:
     - echo "Begin Build"
     - sudo -H pip3 install -r requirements.txt
