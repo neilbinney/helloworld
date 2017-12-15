@@ -60,7 +60,14 @@ Distelli Agent https://www.distelli.com/neilbinney/servers/258db99f-7390-ba46-b6
 ### Select branches
 
 [![select_repo](https://github.com/neilbinney/helloworld/raw/screenshots/screenshots/select_repo.png)](#features)
-
+### Configure build steps
+* Select **Build Distelli Release**
+* Tick **Advanced user? Use a distelli-manifest.yml instead of editing your build steps in the app.** box.
+[![config_build](https://github.com/neilbinney/helloworld/raw/screenshots/screenshots/config_build.png)](#features)
+### Review your build configuration
+* Tick **Build on my own hardware**
+* Specify a name in **Build Capabilities** to pair application builds to server
+[![review](https://github.com/neilbinney/helloworld/raw/screenshots/screenshots/review.png)](#features)
 [![Application screenshot](https://github.com/neilbinney/helloworld/raw/screenshots/screenshots/Application.png)](#features)
 
 
