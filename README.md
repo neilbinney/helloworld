@@ -50,8 +50,11 @@ Distelli Agent https://www.distelli.com/neilbinney/servers/258db99f-7390-ba46-b6
 * Select the server you have created from the list
 * Enable **Key Management Server**
 * Enable **Job/Build Server**
+* Specify a name in **Capabilities** to pair application builds to server 
 
 [![server](https://github.com/neilbinney/helloworld/raw/screenshots/screenshots/server.png)](#features)
+
+
 
 ### Create the Application
 
@@ -65,10 +68,10 @@ Distelli Agent https://www.distelli.com/neilbinney/servers/258db99f-7390-ba46-b6
 
 ### Select a repository
 
-[![select_branch](https://github.com/neilbinney/helloworld/raw/screenshots/screenshots/select_branch.png)](#features)
+[![select_repo](https://github.com/neilbinney/helloworld/raw/screenshots/screenshots/select_repo.png)](#features)
 ### Select branches
 
-[![select_repo](https://github.com/neilbinney/helloworld/raw/screenshots/screenshots/select_repo.png)](#features)
+[![select_branch](https://github.com/neilbinney/helloworld/raw/screenshots/screenshots/select_branch.png)](#features)
 ### Configure build steps
 * Select **Build Distelli Release**
 * Tick **Advanced user? Use a distelli-manifest.yml instead of editing your build steps in the app.** box.
@@ -78,7 +81,23 @@ Distelli Agent https://www.distelli.com/neilbinney/servers/258db99f-7390-ba46-b6
 * Specify a name in **Build Capabilities** to pair application builds to server
 [![review](https://github.com/neilbinney/helloworld/raw/screenshots/screenshots/review.png)](#features)
 [![Application screenshot](https://github.com/neilbinney/helloworld/raw/screenshots/screenshots/Application.png)](#features)
+### Create application environment
 
+* Select **Applications** from the top of the WebUI
+* Select Environments
+* Select Create Environment
+
+  Create Environment
+[![environment](https://github.com/neilbinney/helloworld/raw/screenshots/screenshots/environment.png)](#features)
+### Create application environment
+
+* Select **Servers** from the top of the WebUI
+* Select **Edit Environments**
+* Select the new environment and click **Add Environments** to add the environment to the server
+
+[![addenvironment](https://github.com/neilbinney/helloworld/raw/screenshots/screenshots/addenvironment.png)](#features)
+
+## Django Code
 
 A Django 'hello world' example.
 
